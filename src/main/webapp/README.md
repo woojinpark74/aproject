@@ -1,4 +1,8 @@
-#installation
+##installation
+<pre>
 git cloen ~~
-#run
-~~~
+</pre>
+##run
+<pre>
+cd /home
+</pre>
